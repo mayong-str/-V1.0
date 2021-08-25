@@ -1,0 +1,599 @@
+﻿[信息] 2021-08-02 15:37:19.547 thread:[01] 输出dateTimeStr：20210720
+[信息] 2021-08-02 15:37:19.551 thread:[01] 输出dateTimeEnd：20210802
+[信息] 2021-08-02 15:37:19.551 thread:[01] 系统启动
+[信息] 2021-08-02 15:37:34.756 thread:[01] path：C:\Users\admin\Desktop\toto
+[信息] 2021-08-02 15:37:38.035 thread:[01] defaultpath：C:\Users\admin\Desktop\file-2021-06-22
+[信息] 2021-08-02 15:37:42.545 thread:[05] 每次获取的时间：2021/08/02 15:37:42
+[信息] 2021-08-02 15:37:42.551 thread:[05] Url：192.168.1.20
+[信息] 2021-08-02 15:37:42.552 thread:[05] Url1：http://192.168.1.20/
+[信息] 2021-08-02 15:37:42.552 thread:[05] 第一次发送请求开始------
+[信息] 2021-08-02 15:37:42.562 thread:[05] 服务器响应前检测时间2021/08/02 15:37:42
+[信息] 2021-08-02 15:38:03.694 thread:[05] 再次发送请求开始------
+[信息] 2021-08-02 15:38:03.698 thread:[05] 服务器响应前检测时间2021/08/02 15:38:03
+[信息] 2021-08-02 15:38:19.558 thread:[01] 小时：15
+[信息] 2021-08-02 15:38:19.558 thread:[01] 分钟：38
+[信息] 2021-08-02 15:38:22.062 thread:[01] 输出dateTimeStr：20210720
+[信息] 2021-08-02 15:38:22.063 thread:[01] 输出dateTimeEnd：20210802
+[信息] 2021-08-02 15:38:24.720 thread:[05] 再次发送请求失败开始------
+[信息] 2021-08-02 15:38:24.722 thread:[05] 断线事务192.168.1.20开启之前------
+[信息] 2021-08-02 15:38:24.728 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('1','192.168.1.20','8','POWER','0','2021/08/02 15:38:24','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.088 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('2','192.168.1.20','20','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.088 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('3','192.168.1.20','26','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.088 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('4','192.168.1.20','32','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.088 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('5','192.168.1.20','38','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.088 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('6','192.168.1.20','47','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.088 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('7','192.168.1.20','53','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.088 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('8','192.168.1.20','56','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.088 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('9','192.168.1.20','59','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('10','192.168.1.20','62','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('11','192.168.1.20','65','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('12','192.168.1.20','73','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('13','192.168.1.20','78','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('14','192.168.1.20','81','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('15','192.168.1.20','84','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('16','192.168.1.20','87','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('17','192.168.1.20','90','POWER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('30','192.168.1.20','161','WATER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('31','192.168.1.20','162','WATER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('32','192.168.1.20','163','WATER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('33','192.168.1.20','164','WATER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('34','192.168.1.20','165','WATER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('35','192.168.1.20','166','WATER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('36','192.168.1.20','167','WATER','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.089 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('53','192.168.1.20','160','AIR','0','2021/08/02 15:38:25','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:38:25.310 thread:[05] 断线192.168.1.20事务执行完毕--------
+[信息] 2021-08-02 15:38:25.399 thread:[05] Url：192.168.1.23
+[信息] 2021-08-02 15:38:25.427 thread:[05] Url1：http://192.168.1.23/
+[信息] 2021-08-02 15:38:25.427 thread:[05] 第一次发送请求开始------
+[信息] 2021-08-02 15:38:25.436 thread:[05] 服务器响应前检测时间2021/08/02 15:38:25
+[信息] 2021-08-02 15:38:46.455 thread:[05] 再次发送请求开始------
+[信息] 2021-08-02 15:38:46.457 thread:[05] 服务器响应前检测时间2021/08/02 15:38:46
+[信息] 2021-08-02 15:39:07.476 thread:[05] 再次发送请求失败开始------
+[信息] 2021-08-02 15:39:07.479 thread:[05] 断线事务192.168.1.23开启之前------
+[信息] 2021-08-02 15:39:07.479 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('75','192.168.1.23','15','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.481 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('76','192.168.1.23','24','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('77','192.168.1.23','27','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('78','192.168.1.23','21','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('79','192.168.1.23','33','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('80','192.168.1.23','45','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('81','192.168.1.23','57','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('82','192.168.1.23','99','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('83','192.168.1.23','36','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('84','192.168.1.23','42','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('85','192.168.1.23','39','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('86','192.168.1.23','48','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('87','192.168.1.23','51','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('88','192.168.1.23','60','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('89','192.168.1.23','63','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('90','192.168.1.23','72','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('91','192.168.1.23','78','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('92','192.168.1.23','75','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('93','192.168.1.23','84','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('94','192.168.1.23','87','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('95','192.168.1.23','90','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('96','192.168.1.23','93','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('97','192.168.1.23','96','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.482 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('98','192.168.1.23','255','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('99','192.168.1.23','111','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('100','192.168.1.23','114','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('101','192.168.1.23','117','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('102','192.168.1.23','54','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('103','192.168.1.23','66','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('104','192.168.1.23','81','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('105','192.168.1.23','90','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('106','192.168.1.23','93','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('107','192.168.1.23','96','POWER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('20','192.168.1.23','208','WATER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('21','192.168.1.23','209','WATER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('22','192.168.1.23','210','WATER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('23','192.168.1.23','211','WATER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('24','192.168.1.23','212','WATER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('25','192.168.1.23','213','WATER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('26','192.168.1.23','214','WATER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('27','192.168.1.23','215','WATER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('28','192.168.1.23','216','WATER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('29','192.168.1.23','217','WATER','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('33','192.168.1.23','218','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('34','192.168.1.23','219','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('35','192.168.1.23','220','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('36','192.168.1.23','221','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('37','192.168.1.23','222','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('38','192.168.1.23','223','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('39','192.168.1.23','224','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('40','192.168.1.23','225','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('41','192.168.1.23','226','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.483 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('43','192.168.1.23','240','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:39:07.484 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('44','192.168.1.23','241','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:39:07.484 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('45','192.168.1.23','242','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:39:07.484 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('46','192.168.1.23','243','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:39:07.484 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('47','192.168.1.23','244','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:39:07.484 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('48','192.168.1.23','245','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:39:07.484 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('49','192.168.1.23','246','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:39:07.484 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('50','192.168.1.23','247','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:39:07.484 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('51','192.168.1.23','248','AIR','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:39:07.484 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('1','192.168.1.23','228','GAS','0','2021/08/02 15:39:07','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:07.780 thread:[05] 断线192.168.1.23事务执行完毕--------
+[信息] 2021-08-02 15:39:07.780 thread:[05] Url：192.168.1.26
+[信息] 2021-08-02 15:39:07.784 thread:[05] Url1：http://192.168.1.26/
+[信息] 2021-08-02 15:39:07.784 thread:[05] 第一次发送请求开始------
+[信息] 2021-08-02 15:39:07.787 thread:[05] 服务器响应前检测时间2021/08/02 15:39:07
+[信息] 2021-08-02 15:39:19.549 thread:[01] 小时：15
+[信息] 2021-08-02 15:39:19.549 thread:[01] 分钟：39
+[信息] 2021-08-02 15:39:19.565 thread:[01] 输出dateTimeStr：20210720
+[信息] 2021-08-02 15:39:19.565 thread:[01] 输出dateTimeEnd：20210802
+[信息] 2021-08-02 15:39:28.805 thread:[05] 再次发送请求开始------
+[信息] 2021-08-02 15:39:28.808 thread:[05] 服务器响应前检测时间2021/08/02 15:39:28
+[信息] 2021-08-02 15:39:49.832 thread:[05] 再次发送请求失败开始------
+[信息] 2021-08-02 15:39:49.835 thread:[05] 断线事务192.168.1.26开启之前------
+[信息] 2021-08-02 15:39:49.836 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('18','192.168.1.26','15','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.837 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('19','192.168.1.26','66','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.837 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('20','192.168.1.26','27','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.837 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('21','192.168.1.26','36','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.837 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('22','192.168.1.26','45','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.837 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('23','192.168.1.26','48','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.837 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('24','192.168.1.26','51','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.837 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('25','192.168.1.26','57','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.837 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('26','192.168.1.26','60','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.837 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('27','192.168.1.26','63','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.838 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('28','192.168.1.26','69','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.838 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('29','192.168.1.26','72','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.838 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('30','192.168.1.26','75','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.838 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('31','192.168.1.26','81','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.838 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('32','192.168.1.26','84','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('33','192.168.1.26','87','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('34','192.168.1.26','90','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('35','192.168.1.26','21','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('36','192.168.1.26','93','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('37','192.168.1.26','96','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('38','192.168.1.26','99','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('39','192.168.1.26','102','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('40','192.168.1.26','105','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('41','192.168.1.26','30','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('42','192.168.1.26','78','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('43','192.168.1.26','111','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('44','192.168.1.26','114','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('45','192.168.1.26','24','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('46','192.168.1.26','39','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('47','192.168.1.26','54','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('48','192.168.1.26','108','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('49','192.168.1.26','255','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('67','192.168.1.26','33','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:49.840 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('68','192.168.1.26','42','POWER','0','2021/08/02 15:39:49','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:39:50.156 thread:[05] 断线192.168.1.26事务执行完毕--------
+[信息] 2021-08-02 15:39:50.156 thread:[05] Url：192.168.1.27
+[信息] 2021-08-02 15:39:50.161 thread:[05] Url1：http://192.168.1.27/
+[信息] 2021-08-02 15:39:50.161 thread:[05] 第一次发送请求开始------
+[信息] 2021-08-02 15:39:50.162 thread:[05] 服务器响应前检测时间2021/08/02 15:39:50
+[信息] 2021-08-02 15:40:11.185 thread:[05] 再次发送请求开始------
+[信息] 2021-08-02 15:40:11.188 thread:[05] 服务器响应前检测时间2021/08/02 15:40:11
+[信息] 2021-08-02 15:40:19.558 thread:[01] 小时：15
+[信息] 2021-08-02 15:40:19.558 thread:[01] 分钟：40
+[信息] 2021-08-02 15:40:19.568 thread:[01] 输出dateTimeStr：20210720
+[信息] 2021-08-02 15:40:19.568 thread:[01] 输出dateTimeEnd：20210802
+[信息] 2021-08-02 15:40:32.208 thread:[05] 再次发送请求失败开始------
+[信息] 2021-08-02 15:40:32.210 thread:[05] 断线事务192.168.1.27开启之前------
+[信息] 2021-08-02 15:40:32.210 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('50','192.168.1.27','8','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.532 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('51','192.168.1.27','20','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.532 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('52','192.168.1.27','32','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.532 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('53','192.168.1.27','44','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.532 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('54','192.168.1.27','53','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('55','192.168.1.27','56','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('56','192.168.1.27','59','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('57','192.168.1.27','13','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('58','192.168.1.27','17','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('59','192.168.1.27','26','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('60','192.168.1.27','29','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('61','192.168.1.27','62','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('62','192.168.1.27','65','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('63','192.168.1.27','74','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('64','192.168.1.27','77','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('65','192.168.1.27','50','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('66','192.168.1.27','41','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('69','192.168.1.27','38','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('70','192.168.1.27','47','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('71','192.168.1.27','50','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('72','192.168.1.27','53','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('73','192.168.1.27','80','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('74','192.168.1.27','83','POWER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('1','192.168.1.27','140','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('2','192.168.1.27','141','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('3','192.168.1.27','142','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('4','192.168.1.27','143','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('5','192.168.1.27','144','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.533 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('6','192.168.1.27','145','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('7','192.168.1.27','146','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('8','192.168.1.27','147','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('9','192.168.1.27','148','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('10','192.168.1.27','149','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('11','192.168.1.27','150','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('12','192.168.1.27','151','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('13','192.168.1.27','152','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('14','192.168.1.27','153','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('15','192.168.1.27','154','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('16','192.168.1.27','155','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('17','192.168.1.27','156','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('18','192.168.1.27','157','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('19','192.168.1.27','158','WATER','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('1','192.168.1.27','162','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('2','192.168.1.27','163','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('3','192.168.1.27','164','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('4','192.168.1.27','165','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('5','192.168.1.27','166','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('6','192.168.1.27','167','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('7','192.168.1.27','168','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('8','192.168.1.27','169','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.534 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('9','192.168.1.27','170','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('10','192.168.1.27','171','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('11','192.168.1.27','172','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('12','192.168.1.27','173','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('13','192.168.1.27','174','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('14','192.168.1.27','175','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('15','192.168.1.27','176','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('16','192.168.1.27','177','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('17','192.168.1.27','200','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('18','192.168.1.27','201','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('19','192.168.1.27','202','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('20','192.168.1.27','203','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('21','192.168.1.27','204','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('22','192.168.1.27','205','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('23','192.168.1.27','206','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('24','192.168.1.27','222','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('25','192.168.1.27','207','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('26','192.168.1.27','208','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('27','192.168.1.27','209','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('28','192.168.1.27','210','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('29','192.168.1.27','211','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('30','192.168.1.27','212','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.535 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('31','192.168.1.27','213','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.536 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('32','192.168.1.27','214','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.536 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('42','192.168.1.27','178','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','1')
+[信息] 2021-08-02 15:40:32.536 thread:[05] 执行Sql：insert into  value (serialnumber,servername,localID,type,value,Date,requestDate,RequestNumber,valueType) values('52','192.168.1.27','221','AIR','0','2021/08/02 15:40:32','2021/08/02 15:37:42','1874','0')
+[信息] 2021-08-02 15:40:32.881 thread:[05] 断线192.168.1.27事务执行完毕--------
+[信息] 2021-08-02 15:40:32.890 thread:[05] button_Get执行完毕！
+[错误] 2021-08-02 15:40:34.168 thread:[05] 输出ds    的值：8
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：8
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：228
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：228
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：140
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：140
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：162
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：162
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：20
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：20
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：141
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：141
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：163
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：163
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：26
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：26
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：142
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：142
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：164
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：164
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：32
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：32
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：143
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：143
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：165
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：165
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：38
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：38
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：144
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：144
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：166
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：166
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：47
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：47
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：145
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：145
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：167
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：167
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：53
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：53
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：146
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：146
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：168
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：168
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：56
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：56
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：147
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：147
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：169
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：169
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：59
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：59
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：148
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：148
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：170
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：170
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：62
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：62
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：149
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：149
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：171
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：171
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：65
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：65
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：150
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：150
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：172
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：172
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：73
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：73
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：151
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：151
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：173
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：173
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：78
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：78
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：152
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：152
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：174
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：174
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：81
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：81
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：153
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：153
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：175
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：175
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：84
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：84
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：154
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：154
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：176
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：176
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：87
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：87
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：155
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：155
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：177
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：177
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：90
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：90
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：156
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：156
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：15
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：15
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：157
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：157
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：66
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：66
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：158
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：158
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：208
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：208
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：27
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：27
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：209
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：209
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：36
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：36
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：210
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：210
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：45
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：45
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：211
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：211
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：48
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：48
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：212
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：212
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：51
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：51
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：213
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：213
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：57
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：57
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：214
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：214
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：60
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：60
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：215
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：215
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：63
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：63
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：216
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：216
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：69
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：69
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：217
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：217
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：72
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：72
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：161
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：161
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：75
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：75
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：162
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：162
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：81
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：81
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：163
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：163
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：84
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：84
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：164
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：164
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：218
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：218
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：87
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：87
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：165
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：165
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：219
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：219
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：90
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：90
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：166
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：166
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：220
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：220
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：21
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：21
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：167
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：167
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：221
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：221
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：93
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：93
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：222
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：222
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：96
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：96
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：223
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：223
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：99
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：99
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：224
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：224
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：102
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：102
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：225
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：225
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：105
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：105
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：226
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：226
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：30
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：30
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：78
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：78
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：178
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：178
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：111
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：111
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：114
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：114
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：24
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：24
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：39
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：39
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：54
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：54
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：108
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：108
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：255
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：255
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：8
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：8
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：20
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：20
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：32
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：32
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：160
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：160
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：44
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：44
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：53
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：53
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：56
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：56
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：59
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：59
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：13
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：13
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：17
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：17
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：26
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：26
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：29
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：29
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：62
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：62
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：65
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：65
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：74
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：74
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：77
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：77
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：50
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：50
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：41
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：41
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：33
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：33
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：42
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：42
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：38
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：38
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：47
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：47
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：50
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：50
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：53
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：53
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：80
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：80
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：83
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：83
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：15
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：15
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：24
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：24
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：27
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：27
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：21
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：21
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：33
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：33
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：45
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：45
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：57
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：57
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：99
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：99
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：36
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：36
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：42
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：42
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：39
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：39
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：48
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：48
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：51
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：51
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：60
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：60
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：63
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：63
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：72
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：72
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：78
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：78
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：75
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：75
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：84
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：84
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：87
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：87
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：90
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：90
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：93
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：93
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：96
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：96
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：255
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：255
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：111
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：111
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：114
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：114
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：117
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：117
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：54
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：54
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：66
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：66
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：81
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：81
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：90
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：90
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：93
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：93
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出ds    的值：96
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出lastds的值：96
+[错误] 2021-08-02 15:40:34.170 thread:[05] 输出flag的值：True
+[信息] 2021-08-02 15:40:35.383 thread:[05] 导出AIR.csv完成！
+[信息] 2021-08-02 15:40:35.613 thread:[05] 导出GAS.csv完成！
+[信息] 2021-08-02 15:40:36.095 thread:[05] 导出POWER.csv完成！
+[信息] 2021-08-02 15:40:36.618 thread:[05] 导出WATER.csv完成！

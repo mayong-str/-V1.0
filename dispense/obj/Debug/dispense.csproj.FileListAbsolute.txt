@@ -1,0 +1,222 @@
+C:\Users\admin\Desktop\dispense\bin\Debug\dispense.exe.config
+C:\Users\admin\Desktop\dispense\bin\Debug\dispense.exe
+C:\Users\admin\Desktop\dispense\bin\Debug\dispense.pdb
+C:\Users\admin\Desktop\dispense\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\dispense\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\dispense\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\dispense\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\dispense\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Desktop\dispense\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Desktop\dispense\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Desktop\dispense\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\dispense\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\dispense\bin\Debug\log4net.xml
+C:\Users\admin\Desktop\dispense\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\dispense\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\dispense\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Desktop\dispense\obj\Debug\dispense.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\dispense\obj\Debug\dispense.Form1.resources
+C:\Users\admin\Desktop\dispense\obj\Debug\dispense.Properties.Resources.resources
+C:\Users\admin\Desktop\dispense\obj\Debug\dispense.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dispense\obj\Debug\dispense.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dispense\obj\Debug\dispense.csproj.CopyComplete
+C:\Users\admin\Desktop\dispense\obj\Debug\dispense.exe
+C:\Users\admin\Desktop\dispense\obj\Debug\dispense.pdb
+C:\Users\admin\source\repos\dispense\bin\Debug\App.config
+C:\Users\admin\source\repos\dispense\bin\Debug\dispense.exe.config
+C:\Users\admin\source\repos\dispense\bin\Debug\dispense.exe
+C:\Users\admin\source\repos\dispense\bin\Debug\dispense.pdb
+C:\Users\admin\source\repos\dispense\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\dispense\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\dispense\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\dispense\bin\Debug\NLog.dll
+C:\Users\admin\source\repos\dispense\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\source\repos\dispense\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\source\repos\dispense\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\source\repos\dispense\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\dispense\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\dispense\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\source\repos\dispense\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\dispense\bin\Debug\NLog.xml
+C:\Users\admin\source\repos\dispense\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\source\repos\dispense\obj\Debug\dispense.Form1.resources
+C:\Users\admin\source\repos\dispense\obj\Debug\dispense.Properties.Resources.resources
+C:\Users\admin\source\repos\dispense\obj\Debug\dispense.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\dispense\obj\Debug\dispense.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\dispense\obj\Debug\dispense.csproj.CopyComplete
+C:\Users\admin\source\repos\dispense\obj\Debug\dispense.exe
+C:\Users\admin\source\repos\dispense\obj\Debug\dispense.pdb
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\App.config
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\dispense.exe.config
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\dispense.exe
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\dispense.pdb
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\NLog.dll
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\NLog.xml
+C:\Users\admin\Desktop\diapense1\dispense\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Desktop\diapense1\dispense\obj\Debug\dispense.Form1.resources
+C:\Users\admin\Desktop\diapense1\dispense\obj\Debug\dispense.Properties.Resources.resources
+C:\Users\admin\Desktop\diapense1\dispense\obj\Debug\dispense.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\diapense1\dispense\obj\Debug\dispense.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\diapense1\dispense\obj\Debug\dispense.csproj.CopyComplete
+C:\Users\admin\Desktop\diapense1\dispense\obj\Debug\dispense.exe
+C:\Users\admin\Desktop\diapense1\dispense\obj\Debug\dispense.pdb
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\App.config
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\dispense.exe.config
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\dispense.exe
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\dispense.pdb
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\NLog.dll
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\log4net.xml
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\NLog.xml
+C:\Users\admin\Desktop\dispense2\dispense\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Desktop\dispense2\dispense\obj\Debug\dispense.Form1.resources
+C:\Users\admin\Desktop\dispense2\dispense\obj\Debug\dispense.Properties.Resources.resources
+C:\Users\admin\Desktop\dispense2\dispense\obj\Debug\dispense.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dispense2\dispense\obj\Debug\dispense.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dispense2\dispense\obj\Debug\dispense.csproj.CopyComplete
+C:\Users\admin\Desktop\dispense2\dispense\obj\Debug\dispense.exe
+C:\Users\admin\Desktop\dispense2\dispense\obj\Debug\dispense.pdb
+C:\Users\admin\Desktop\dispense2\dispense\obj\Debug\dispense.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\App.config
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\dispense.exe.config
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\dispense.exe
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\dispense.pdb
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\NLog.dll
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\log4net.xml
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\NLog.xml
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\obj\Debug\dispense.Form1.resources
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\obj\Debug\dispense.Properties.Resources.resources
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\obj\Debug\dispense.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\obj\Debug\dispense.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\obj\Debug\dispense.csproj.CopyComplete
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\obj\Debug\dispense.exe
+C:\Users\admin\Desktop\dispense-2021-06-09\dispense\obj\Debug\dispense.pdb
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\App.config
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\dispense.exe.config
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\dispense.exe
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\dispense.pdb
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\EntityFramework.dll
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\EntityFramework.SqlServer.dll
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\Newtonsoft.Json.dll
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\System.Data.SQLite.dll
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\System.Data.SQLite.EF6.dll
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\System.Data.SQLite.Linq.dll
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\EntityFramework.xml
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\EntityFramework.SqlServer.xml
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\Newtonsoft.Json.pdb
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\Newtonsoft.Json.xml
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\System.Data.SQLite.xml
+D:\cyg\dispens2021-06-09\dispense\obj\Debug\dispense.csprojAssemblyReference.cache
+D:\cyg\dispens2021-06-09\dispense\obj\Debug\dispense.Form1.resources
+D:\cyg\dispens2021-06-09\dispense\obj\Debug\dispense.Properties.Resources.resources
+D:\cyg\dispens2021-06-09\dispense\obj\Debug\dispense.csproj.GenerateResource.cache
+D:\cyg\dispens2021-06-09\dispense\obj\Debug\dispense.csproj.CoreCompileInputs.cache
+D:\cyg\dispens2021-06-09\dispense\obj\Debug\dispense.csproj.CopyComplete
+D:\cyg\dispens2021-06-09\dispense\obj\Debug\dispense.exe
+D:\cyg\dispens2021-06-09\dispense\obj\Debug\dispense.pdb
+D:\cyg\dispens2021-06-09\dispense\bin\Debug\HzHehuaLog.dll
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\App.config
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\dispense.exe.config
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\dispense.exe
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\dispense.pdb
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\obj\Debug\dispense.Form1.resources
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\obj\Debug\dispense.Properties.Resources.resources
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\obj\Debug\dispense.csproj.GenerateResource.cache
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\obj\Debug\dispense.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\obj\Debug\dispense.csproj.CopyComplete
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\obj\Debug\dispense.exe
+C:\Users\admin\Documents\WeChat Files\wxid_6y52dsfnicnu22\FileStorage\File\2021-06\dispense\obj\Debug\dispense.pdb
+C:\Users\admin\Desktop\dispense20210611\dispense\obj\Debug\dispense.exe
+C:\Users\admin\Desktop\dispense20210611\dispense\obj\Debug\dispense.pdb
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\App.config
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\dispense.exe.config
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\dispense.exe
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\dispense.pdb
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\dispense20210611\dispense\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Desktop\dispense20210611\dispense\obj\Debug\dispense.Form1.resources
+C:\Users\admin\Desktop\dispense20210611\dispense\obj\Debug\dispense.Properties.Resources.resources
+C:\Users\admin\Desktop\dispense20210611\dispense\obj\Debug\dispense.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dispense20210611\dispense\obj\Debug\dispense.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dispense20210611\dispense\obj\Debug\dispense.csproj.CopyComplete
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\App.config
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\dispense.exe.config
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\dispense.exe
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\dispense.pdb
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\NPOI.dll
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\NPOI.OOXML.dll
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\NPOI.xml
+C:\Users\admin\Desktop\dispense最终版\dispense\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Desktop\dispense最终版\dispense\obj\Debug\dispense.Form1.resources
+C:\Users\admin\Desktop\dispense最终版\dispense\obj\Debug\dispense.Properties.Resources.resources
+C:\Users\admin\Desktop\dispense最终版\dispense\obj\Debug\dispense.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\dispense最终版\dispense\obj\Debug\dispense.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dispense最终版\dispense\obj\Debug\dispense.csproj.CopyComplete
+C:\Users\admin\Desktop\dispense最终版\dispense\obj\Debug\dispense.exe
+C:\Users\admin\Desktop\dispense最终版\dispense\obj\Debug\dispense.pdb
+C:\Users\admin\Desktop\dispense最终版\dispense\obj\Debug\dispense.csprojAssemblyReference.cache
